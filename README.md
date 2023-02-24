@@ -10,11 +10,15 @@ https://ajio-clone-by-niraj.netlify.app/
 
 
 ## Screenshots
+
+## Landing Page
 ![Screenshot_20230224_022005](https://user-images.githubusercontent.com/108226943/221137011-a1824acb-87c8-4a51-927a-758cb3ba2864.png)
 
+## Categories Page
+![Screenshot_20230224_022113](https://user-images.githubusercontent.com/108226943/221137263-501f2c40-13be-4156-85ed-695360890143.png)
 
-
-![App Screenshot]()
+## Women Products Page
+![Screenshot_20230224_022135](https://user-images.githubusercontent.com/108226943/221137338-fe6ee6b4-884c-4428-9165-46ffb66883ab.png)
 
 
 ## Tech Stack
